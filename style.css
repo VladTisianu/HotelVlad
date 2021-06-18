@@ -1,0 +1,224 @@
+h1{
+    color:darkgray;
+    font-family:Georgia,serif;
+    font-size:25px;
+}
+h2{
+    color:darkgray;
+    font-family:"Comic Sans MS";
+    font-size:15px;
+    padding-left:15px;
+}
+
+.container{
+    width:12.5%;
+    margin:auto;
+}
+
+.toptext{
+    background-color:#333;
+    border:2px darkgray solid;
+    border-radius:25px;
+    line-height:10px;
+}
+.slideshow1{
+    position:absolute;
+    top:76%;
+}
+.showcase{
+    position:absolute;
+    top:12%;
+
+    
+
+}
+.descriere{
+    position:absolute;
+    top:25%;
+    font-size:20px;
+    font-family:"Comic Sans MS";
+    margin:0 auto;
+    text-align:center;
+    color:black;
+}
+.descriere2{
+    position:absolute;
+    top:35%;
+    font-size:45px;
+    left:45%;
+
+    font-family:"Times New Roman";
+    color:orange;
+}
+.textshowcase{
+    position:absolute;
+    top:100%;
+    left:58%;
+    color:white;
+    font-family:'Courier New', Courier, monospace;
+}
+.room{
+    position:absolute;
+    top:85%;
+    left:72%;
+}
+.sliderestaurant{
+    position:absolute;
+    top:129%;
+    left:50%
+}
+.textrestaurant{
+    position:absolute;
+    top:155%;
+    left:3%;
+    width:45%;
+    color:white;
+    font-family:'Courier New', Courier, monospace;
+}
+.resticon{
+    position:absolute;
+    top:140%;
+    left:19%;
+}
+.slidefitness{
+    position:absolute;
+    top:182%;
+}
+.acttext{
+    position:absolute;
+    top:200%;
+    left:55%;
+    color:white;
+    font-family:'Courier New', Courier, monospace;
+}
+.acticon{
+    position:absolute;
+    top:188%;
+    left:72%;
+}
+.aboutpage{
+    position:absolute;
+    top:5%;
+    left:75%;
+}
+.button1{
+    background: rgb(255,255,255);
+background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(210,206,206,1) 0%, rgba(64,59,59,1) 100%);
+    width:80px;
+    height:25px;
+    border:2px;
+    border-radius:25px;
+}
+.contactpage{
+    position:absolute;
+    top:5%;
+    left:81%;
+}
+.button2{
+    background: rgb(255,255,255);
+background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(64,59,59,1) 0%, rgba(210,206,206,1) 100%);
+    width:80px;
+    height:25px;
+    border:2px;
+    border-radius:25px;
+}
+.paragraph{
+    color:white;
+}
+.pcontainer{
+    position:absolute;
+    top:28%;
+    left:6%;
+    width:35%;
+    border-radius:25px;
+    background: rgb(255,255,255);
+background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(64,59,59,1) 0%, rgba(152,135,135,1) 49%, rgba(156,138,138,1) 60%, rgba(166,145,145,1) 68%, rgba(131,115,115,1) 100%);
+opacity:0.8;
+}
+
+.aboutimg{
+    position:absolute;
+    top:20%;
+    left:55%;
+    opacity:0.8;
+}
+.aboutimage{
+    border-radius:50%;
+}
+.button3{
+    position:absolute;
+    top:2.5%;
+    background: rgb(255,255,255);
+background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(64,59,59,1) 0%, rgba(210,206,206,1) 100%);
+    width:150px;
+    height:50px;
+    border:2px;
+    border-radius:25px;
+}
+.face1{
+    position:absolute;
+    top:65%;
+    opacity:0.7;
+    border-radius:50%;
+}
+.ftext1{
+    position:absolute;
+    top:72%;
+    left:11%;
+    width:28%;
+    opacity:0.8;
+    border-radius:15px;
+    background: rgb(255,255,255);
+background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(185,47,47,1) 0%, rgba(0,0,0,1) 100%, rgba(156,138,138,1) 100%, rgba(0,0,0,1) 100%, rgba(131,115,115,1) 100%);
+    color:white;
+}
+.face2{
+    position:absolute;
+    top:64%;
+    right:11%;
+    opacity:0.8;
+}
+.ftext2{
+    position:absolute;
+    top:72%;
+    right:21%;
+    width:15%;
+    opacity:0.8;
+    border-radius:15px;
+    background: rgb(255,255,255);
+background: linear-gradient(266deg, rgba(255,255,255,1) 0%, rgba(185,47,47,1) 0%, rgba(0,0,0,1) 100%, rgba(156,138,138,1) 100%, rgba(0,0,0,1) 100%, rgba(131,115,115,1) 100%);
+    color:white;
+}
+.homepage{
+    position:absolute;
+    top:4%;
+    left:3%;
+}
+.formular{
+    position:absolute;
+    top:25%;
+}
+.rezervare{
+    position:absolute;
+    color:white;
+    font-size:25px;
+    top:13%;    
+}
+.map{
+    position:absolute;
+    top:25%;
+    left:35%;
+}
+a.button {
+    appearance: button;
+    padding-left:15px;
+    background-color:white;
+    width:75px;
+    border-radius:50px;
+
+    text-decoration: none;
+    color: initial;
+    background: rgb(255,255,255);
+background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(64,59,59,1) 0%, rgba(210,206,206,1) 100%);
+}
+
